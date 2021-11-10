@@ -31,11 +31,9 @@
      3.2 In my solution solving it with graphs and using proper Java collection & JGraphT (version 1.5.0) APIs
 
 # 4. Algorithm
-     4.1 How do you find a sequence of moves to switch off all the lights ? If you use well-known
-algorithms (e.g. Dijkstra, Bellman-Ford, etc.), explain reasons for using them
+     4.1 How do you find a sequence of moves to switch off all the lights ? If you use well-known algorithms (e.g. Dijkstra, Bellman-Ford, etc.), explain reasons for using them
 
-     4.2 Demonstrate how your algorithm works step-by-step until all lights are off, using the example
-of 3 x 3 grid and initial states 000110101.
+     4.2 Demonstrate how your algorithm works step-by-step until all lights are off, using the example of 3 x 3 grid and initial states 000110101.
 
      4.3 How do you know whether the number of moves in this sequence is minimum ?
 
